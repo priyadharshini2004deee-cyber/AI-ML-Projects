@@ -1,0 +1,8 @@
+tensorflow
+streamlit
+numpy
+pillow
+matplotlib
+opencv-python-headless
+reportlab
+h5py
